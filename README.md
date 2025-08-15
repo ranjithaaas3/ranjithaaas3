@@ -6,7 +6,7 @@
 - 🎯 Interests: CRM, CPQ, business workflows, and clean architecture
 - 🧪 Learning: Unit testing (xUnit/JUnit), GitHub Actions, Docker basics
 - 💬 Ask me about: CRUD APIs, database design, object‑oriented programming
-- 📫 Reach me: ranjitha1918@gmail.com
+- 📫 Reach me: ranjithaaas3@gmail.com
 
 ## What I'm building
 - **Mini CRM (ASP.NET Core + EF Core + SQL Server)** — contacts, opportunities, simple quote workflow
