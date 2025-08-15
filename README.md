@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Ranjitha R 👋
 
-<!--
-**ranjithaaas3/ranjithaaas3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior .NET & Java Developer** — building clean, testable web APIs and small CRM/CPQ-style apps.
 
-Here are some ideas to get you started:
+- 🔭 Current focus: ASP.NET Core Web API, Spring Boot, REST, SQL (MySQL & SQL Server)
+- 🎯 Interests: CRM, CPQ, business workflows, and clean architecture
+- 🧪 Learning: Unit testing (xUnit/JUnit), GitHub Actions, Docker basics
+- 💬 Ask me about: CRUD APIs, database design, object‑oriented programming
+- 📫 Reach me: ranjitha1918@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+- **Mini CRM (ASP.NET Core + EF Core + SQL Server)** — contacts, opportunities, simple quote workflow
+- **Student Information Management (Spring Boot + MySQL)** — CRUD + auth + search
+- **Quiz App (Java Swing)** — GUI, timer, scoring, DB-backed question bank
+
+## Tech
+C#, .NET, ASP.NET Core, Java, Spring Boot, SQL Server, MySQL, HTML/CSS, Bootstrap, Git & GitHub
+
+## Highlighted repos
+Pin these on your profile:
+1. `mini-crm-dotnet`
+2. `student-info-system-springboot`
+3. `quiz-app-java-swing`
+4. `coding-practice`
+
+---
+
+> I like building small, well-documented projects that show real-world problem solving.
