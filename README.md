@@ -9,7 +9,7 @@
 - 📫 Reach me: ranjithaaas3@gmail.com
 
 ## What I'm building
-- **Mini CRM (ASP.NET Core + EF Core + SQL Server)** — contacts, opportunities, simple quote workflow
+
 - **Student Information Management (Spring Boot + MySQL)** — CRUD + auth + search
 - **Quiz App (Java Swing)** — GUI, timer, scoring, DB-backed question bank
 
@@ -18,10 +18,9 @@ C#, .NET, ASP.NET Core, Java, Spring Boot, SQL Server, MySQL, HTML/CSS, Bootstra
 
 ## Highlighted repos
 Pin these on your profile:
-1. `mini-crm-dotnet`
-2. `student-info-system-springboot`
-3. `quiz-app-java-swing`
-4. `coding-practice`
+1. `student-info-system-springboot`
+2. `quiz-app-java-swing`
+3. `coding-practice`
 
 ---
 
